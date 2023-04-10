@@ -1,0 +1,11 @@
+.galleryPhoto {
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 12px;
+}
+
+.galleryPhoto>img {
+    width: 100%;
+    border-radius: 6px;
+}

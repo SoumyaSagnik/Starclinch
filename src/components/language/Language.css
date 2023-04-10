@@ -1,0 +1,15 @@
+.language {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.language>span {
+    font-size: 14px;
+    color: #333;
+    font-weight: 500;
+}
+
+.language>img {
+    width: 4rem;
+}

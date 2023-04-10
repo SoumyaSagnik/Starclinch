@@ -1,0 +1,21 @@
+.performanceMatrix {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 5px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    gap: .5rem;
+    min-height: 9rem;
+}
+
+.performanceMatrix__matrix {
+    font-size: 1rem;
+    font-weight: 600;
+
+}
+
+.performanceMatrix__name {
+    font-size: 1rem;
+    font-weight: 400;
+}

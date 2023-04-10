@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2233" data-name="Group 2233" transform="translate(-44 -1077)">
+    <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(44 1077)" clip-path="url(#clip-path)">
+      <g id="Group_1896" data-name="Group 1896" transform="translate(-485.12 -8.5)">
+        <g id="Group_2232" data-name="Group 2232">
+          <path id="Path_1924" data-name="Path 1924" d="M490.12,8.5h22a5,5,0,0,1,5,5v22a5,5,0,0,1-5,5h-22a5,5,0,0,1-5-5v-22A5,5,0,0,1,490.12,8.5Z" fill="#e3f8fa" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1909" data-name="Group 1909" transform="translate(-441.12 1068.5)">
+      <g id="Group_1897" data-name="Group 1897">
+        <path id="Path_1925" data-name="Path 1925" d="M505.29,22.459a2.041,2.041,0,1,0,0,4.082h3.829V22.459Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1898" data-name="Group 1898">
+        <path id="Path_1926" data-name="Path 1926" d="M505.29,21.346a3.155,3.155,0,1,0,0,6.309h2.085V34H494.866V15h12.509v6.346ZM500.552,28.8H496V27.691h4.549ZM496,31.031h3.525V29.918H496Z" fill="#26c6da" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1899" data-name="Group 1899">
+        <path id="Path_1927" data-name="Path 1927" d="M508.512,15h1.138v2.6h-1.138Z" fill="#26c6da" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1900" data-name="Group 1900">
+        <path id="Path_1928" data-name="Path 1928" d="M508.512,18.711h1.138v2.6h-1.138Z" fill="#26c6da" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1901" data-name="Group 1901">
+        <path id="Path_1929" data-name="Path 1929" d="M492.591,16.15h1.137v1.113h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1902" data-name="Group 1902">
+        <path id="Path_1930" data-name="Path 1930" d="M492.591,18.377h1.137V19.49h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1903" data-name="Group 1903">
+        <path id="Path_1931" data-name="Path 1931" d="M492.591,20.6h1.137v1.113h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1904" data-name="Group 1904">
+        <path id="Path_1932" data-name="Path 1932" d="M492.591,22.83h1.137v1.113h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1905" data-name="Group 1905">
+        <path id="Path_1933" data-name="Path 1933" d="M492.591,25.057h1.137V26.17h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1906" data-name="Group 1906">
+        <path id="Path_1934" data-name="Path 1934" d="M492.591,27.283h1.137V28.4h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1907" data-name="Group 1907">
+        <path id="Path_1935" data-name="Path 1935" d="M492.591,29.51h1.137v1.113h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1908" data-name="Group 1908">
+        <path id="Path_1936" data-name="Path 1936" d="M492.591,31.736h1.137V32.85h-1.137Z" fill="#8ce1eb" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
