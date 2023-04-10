@@ -43,6 +43,7 @@
 .header__right>span>p {
     font-size: .9rem;
     font-weight: 500;
+    margin-bottom: 0;
 }
 
 .headerGenericButton {

@@ -7,7 +7,7 @@ import Cart from "../../assets/header/cart.svg";
 import Button from "../Button/Button";
 import { useNavigate } from "react-router-dom";
 
-const Header = () => {
+const Header = ({ headerLink1, headerLink2 }) => {
   const navigate = useNavigate();
 
   function navigateHomePage() {
@@ -21,10 +21,10 @@ const Header = () => {
         </div>
         <div className="header__right">
           <span>
-            <p>Entertainers</p> <ExpandMoreIcon className="expandIcon" />
+            <p>{headerLink1}</p> <ExpandMoreIcon className="expandIcon" />
           </span>
           <span>
-            <p>Join Community</p> <ExpandMoreIcon className="expandIcon" />
+            <p>{headerLink2}</p> <ExpandMoreIcon className="expandIcon" />
           </span>
           <span>
             <Button

@@ -21,7 +21,7 @@ const Home = () => {
       transition={{ duration: 0.25 }}
     >
       <div className="home">
-        <Header />
+        <Header headerLink1="Entertainers" headerLink2="Join Community" />
         <Intro />
         <Gallery />
         <div style={styles}>

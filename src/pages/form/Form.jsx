@@ -14,7 +14,7 @@ const Form = () => {
       transition={{ duration: 0.25 }}
     >
       <div className="form">
-        <Header />
+        <Header headerLink1="Browse by Category" headerLink2="For Artists" />
         <FormHeader img={Image} firstName="Ranbir" lastName="Kapoor" />
         <FormBody />
       </div>
